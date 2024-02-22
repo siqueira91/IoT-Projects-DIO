@@ -1,1 +1,1 @@
-# IoT-Projects-DIO
+Projetos do curso de formação Formação IoT Specialist da DIO
